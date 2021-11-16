@@ -20,5 +20,6 @@ main {
 img {
   float: left;
   margin-right: 30px;
+  margin-bottom: 10px;
   box-shadow: 15px 15px 10px grey;
 }
